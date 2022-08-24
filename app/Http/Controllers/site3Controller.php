@@ -8,7 +8,7 @@ class site3Controller extends Controller
 {
     public function index()
 {
-    return View('site3.master2');
+    return View('site3.index33');
 }
 
 public function EXPERIENCE()
@@ -23,7 +23,6 @@ public function SKILLS()
 {
     return View('site3.SKILLS');
 }
-
 public function INTERESTS()
 {
     return View('site3.INTERESTS');
